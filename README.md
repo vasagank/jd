@@ -1,2 +1,2 @@
 # jd
-jd scrap
+jd data extractor
