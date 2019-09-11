@@ -1,0 +1,21 @@
+#Kindly follow the below steps to run this chrome plugin to scrap data from just dial
+
+STEP 1:
+    Download and exctract attached file (justdial) inside your local server(Inside htdocs folder)  
+    
+STEP 2:
+    Create database named justdial and import the vendor (attached in mail and also you get inside sql folder)
+    
+STEP 3:
+    Load extension by following below steps
+        1 => Open new tab in chrome and click 3 dots which is in the right top of the browser
+             Go to =>  More tools -> Extension (Otherwise just enter this url in your chrome browser chrome://extensions/
+             
+        2 => Enable developer mode (option available in right top corner in the same page)
+        
+        3 => Click Load unpacked (Left top corner) Button and select the justdial folder which is inside htdocs
+        
+        4 => Thats it.
+        
+STEP 4:
+    Go to new tab on browser and visit just dial website and browse any product or vendor, it will automatically fetch details and save the same in vendor table.
